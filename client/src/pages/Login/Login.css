@@ -1,0 +1,8 @@
+.test {
+  gap: 5rem;
+}
+@media (max-width: 640px) {
+  .test {
+    gap: 2.5rem;
+  }
+}
